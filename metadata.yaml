@@ -1,0 +1,55 @@
+_repo: The-Prairie_6450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, J. Fenimore (James Fenimore)
+    - Morgan, Jane
+    - Cooper, Fenimore
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: "The Prairie: A Tale (1827) is a novel by James Fenimore Cooper, the\
+  \ third novel written by him featuring Natty Bumppo. His fictitious frontier hero\
+  \ Bumppo is never called by his name, but is instead referred to as \"the trapper\"\
+  \ or \"the old man.\" Chronologically The Prairie is the fifth and final installment\
+  \ of the Leatherstocking Tales, though it was published before The Pathfinder (1840)\
+  \ and The Deerslayer (1841). It depicts Natty in the final year of his life still\
+  \ proving helpful to people in distress on the American frontier. The book frequently\
+  \ references characters and events from the two books previously published in the\
+  \ Leatherstocking Tales as well as the two which Cooper wouldn’t write for more\
+  \ than ten years. Continuity with The Last of the Mohicans is indicated by the appearance\
+  \ of the grandson of Duncan and Alice Heyward, as well as the noble Pawnee chief\
+  \ Hard Heart, whose name is English for the French nickname for the Delaware, le\
+  \ Coeur-dur.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6450'
+  wikidata: Q470844
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- History -- To 1848 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Bumppo, Natty (Fictitious character) -- Fiction'
+- !lcsh 'Indians of North America -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: The Prairie
+url: http://www.gutenberg.org/ebooks/6450
+wikipedia:
+- https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%80%D0%B8%D1%8F%D1%82%D0%B0
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B1%D9%8A_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://de.wikipedia.org/wiki/Die_Pr%C3%A4rie
+- https://pl.wikipedia.org/wiki/Preria_(powie%C5%9B%C4%87)
+- https://hu.wikipedia.org/wiki/A_pr%C3%A9ri
+- https://sk.wikipedia.org/wiki/Pr%C3%A9ria_(rom%C3%A1n)
+- https://en.wikipedia.org/wiki/The_Prairie
+- https://el.wikipedia.org/wiki/%CE%A4%CE%BF_%CE%9B%CE%B5%CE%B9%CE%B2%CE%AC%CE%B4%CE%B9
