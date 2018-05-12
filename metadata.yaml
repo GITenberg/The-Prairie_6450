@@ -1,5 +1,8 @@
 _repo: The-Prairie_6450
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -25,6 +28,8 @@ description: "The Prairie: A Tale (1827) is a novel by James Fenimore Cooper, th
   \ of the grandson of Duncan and Alice Heyward, as well as the noble Pawnee chief\
   \ Hard Heart, whose name is English for the French nickname for the Delaware, le\
   \ Coeur-dur.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6450#The-Prairie
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
